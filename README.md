@@ -1,8 +1,3 @@
-> Hi 👋, Diya
-
-
-
-
 - 👋 Hi, I’m @diya123-coder
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
